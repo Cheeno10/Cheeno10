@@ -1,4 +1,21 @@
-## Hi there 👋
+<p align="center">
+  <img src="hello.gif" width="100%">
+</p>
+
+# Henlo👋 i am Cheeno
+
+I am tipping my toes in Machine Learning, specificlly Image Processsing but i would also like to venture into audio projects in the forseeable future
+
+###
+# Hobbies:
+### Gaming, Writing, Reading, Combat Sports, Art.
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  <img src="writing.gif" style="width: 100%;">
+</div>
+
+
+
+
 
 <!--
 **Cheeno10/Cheeno10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
