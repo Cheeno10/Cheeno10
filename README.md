@@ -74,20 +74,19 @@ Gaming • Writing • Reading • Combat Sports • Art
     <td>Google Colab</td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="28"/></td>
-    <td>Canva</td>
-  </tr>
+  <td><img src="canva.png" width="28" alt="Canva Logo"/></td>
+  <td>Canva</td>
+</tr>
   <tr>
     <td><img src="cursorlogo.png" width="28" alt="Cursor AI Logo"/></td>
     <td>Cursor AI</td>
   </tr>
 </table>
 
-</div>
+<p align="right">
+  <img src="yuh.gif" alt="Yuh GIF" width="150"/>
+</p>
 
-
-</div>
-</div>
 
 
 
