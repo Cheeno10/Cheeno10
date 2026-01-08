@@ -40,6 +40,15 @@ Gaming • Writing • Reading • Combat Sports • Art
     <td>Dart</td>
     <td>Intermediate</td>
   </tr>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="28"/></td>
+    <td>HTML</td>
+    <td><span style="background-color: #ff6666; color: white; padding: 3px 8px; border-radius: 5px;">Beginner</span></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="28"/></td>
+    <td>CSS</td>
+    <td><span style="background-color: #ff6666; color: white; padding: 3px 8px; border-radius: 5px;">Beginner</span></td>
+  </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28"/></td>
     <td>JavaScript</td>
@@ -70,8 +79,8 @@ Gaming • Writing • Reading • Combat Sports • Art
     <td>GitHub</td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="28"/></td>
-    <td>Google Colab</td>
+  <td><img src="colabu.png" width="45" style="display:block; margin:0"/></td>
+  <td>Google Colab</td>
   </tr>
   <tr>
   <td><img src="canva.png" width="28" alt="Canva Logo"/></td>
