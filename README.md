@@ -79,7 +79,7 @@ Gaming • Writing • Reading • Combat Sports • Art
     <td>GitHub</td>
   </tr>
   <tr>
-  <td><img src="colabu.png" width="45" style="display:block; margin:0"/></td>
+  <td><img src="colabu.png" width="28" style="display:block; margin:0"/></td>
   <td>Google Colab</td>
   </tr>
   <tr>
