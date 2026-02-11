@@ -14,7 +14,7 @@ Gaming • Writing • Reading • Combat Sports • Art
 </div>
 
 
-<br> <img src="writing.gif" width="1500" height="400"/> </div>
+<br> <img src="writing.gif" width="1500" height="300"/> </div>
 
 <div style="display: flex; gap: 50px;">
 
