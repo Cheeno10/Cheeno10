@@ -2,16 +2,19 @@
   <img src="hello.gif" width="1500" height="200" >
 </p>
 
-<div align="center"><h1>
-Hello 👋 I am Cheeno!</h1>
+<div align="center">
+  <h1>Hello 👋 I am Cheeno!</h1>
+  <h3><i>Ultimate Larper Ultra MKII</i></h3>
+<div align="center">
 
-I am tipping my toes in Machine Learning, specifically Image Processing, and I would also like to venture into audio projects in the foreseeable future.
-
-## General Hobbies
+## General Hobbies  
 
 Gaming • Writing • Reading • Combat Sports • Art
 
-<br> <img src="writing.gif" width="50%"/> </div>
+</div>
+
+
+<br> <img src="writing.gif" width="1500" height="400"/> </div>
 
 <div style="display: flex; gap: 50px;">
 
