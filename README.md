@@ -4,9 +4,9 @@
 
 <div align="center">
 
-## Hello 👋 I am Cheeno!
+### Hello 👋 I am Cheeno!
 
----
+<hr width="30%">
 
 <img src="https://img.shields.io/badge/INTERESTS-black?style=flat-square&logo=target&logoColor=white" height="30">
 
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/ART-%23F9A825.svg?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white" />
 </p>
 
----
+<hr width="30%">
 
 <img src="https://img.shields.io/badge/PROGRAMMING%20LANGUAGES-black?style=flat-square&logo=codeforces&logoColor=white" height="30">
 
@@ -32,7 +32,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40" alt="Arduino"/>
 </p>
 
----
+<hr width="30%">
 
 <img src="https://img.shields.io/badge/TOOLS%20USED-black?style=flat-square&logo=buildkite&logoColor=white" height="30">
 
@@ -44,7 +44,7 @@
   <img src="cursorlogo.png" width="40" alt="Cursor AI"/>
 </p>
 
----
+<hr width="30%">
 
 <img src="https://img.shields.io/badge/CONTACT%20ME-black?style=flat-square&logo=mail.ru&logoColor=white" height="30">
 
