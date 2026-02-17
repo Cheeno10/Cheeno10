@@ -4,7 +4,6 @@
 
 <div align="center">
   <h1>Hello 👋 I am Cheeno!</h1>
-  <h3><i>Ultimate Larper Ultra MKII</i></h3>
 <div align="center">
 
 ## General Hobbies  
@@ -12,9 +11,6 @@
 Gaming • Writing • Reading • Combat Sports • Art
 
 </div>
-
-
-<br> <img src="writing.gif" width="1500" height="300"/> </div>
 
 <div style="display: flex; gap: 50px;">
 
